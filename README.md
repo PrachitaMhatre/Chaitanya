@@ -31,10 +31,10 @@ React Icons: For beautiful icons.
 
 <img src="![image](https://github.com/user-attachments/assets/00f88779-ced6-4bbf-b64a-a7c0b94b087e)">
 <h2>Backend:</h2>
-<img src="![image](https://github.com/user-attachments/assets/184f3164-bfb7-40bf-bd17-7c960a760c42)">
+<img src="![Screenshot (9)](https://github.com/user-attachments/assets/fa11c9c4-04f8-42f9-880c-2248e8d9458e)">
 
 <h2>Frontend:</h2>
-<img src="![image](https://github.com/user-attachments/assets/116bb5c4-0708-41b4-bc96-4a519ddcf292)">
+<img src="![Screenshot (10)](https://github.com/user-attachments/assets/6057120a-6e58-4ffc-9584-b966faa7e5aa)">
 
 <h2>Database:</h2>
 <img src="![image](https://github.com/user-attachments/assets/860e90d2-1bac-4378-ac55-f7e9f0c69c68)">
