@@ -26,10 +26,8 @@ JWT: For secure authentication.
 React Icons: For beautiful icons.
 
 <h1>📸 Screenshots</h1>
-<img src="![image](https://github.com/user-attachments/assets/065ad8fc-f541-4736-86c6-96bd4d991f0d)">
-
-
-<img src="![image](https://github.com/user-attachments/assets/00f88779-ced6-4bbf-b64a-a7c0b94b087e)">
+<img src="![image](https://github.com/user-attachments/assets/065ad8fc-f541-4736-86c6-96bd4d991f0d)" alt="Code">
+<img src="![image](https://github.com/user-attachments/assets/00f88779-ced6-4bbf-b64a-a7c0b94b087e)" alt="Code">
 <h2>Backend:</h2>
 <img src="![Screenshot (9)](https://github.com/user-attachments/assets/fa11c9c4-04f8-42f9-880c-2248e8d9458e)">
 
