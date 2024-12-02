@@ -26,28 +26,27 @@ JWT: For secure authentication.
 React Icons: For beautiful icons.
 
 <h1>📸 Screenshots</h1>
-<img src="![image](https://github.com/user-attachments/assets/065ad8fc-f541-4736-86c6-96bd4d991f0d)" alt="Code">
-<img src="![image](https://github.com/user-attachments/assets/00f88779-ced6-4bbf-b64a-a7c0b94b087e)" alt="Code">
+
 <h2>Backend:</h2>
-<img src="![Screenshot (9)](https://github.com/user-attachments/assets/fa11c9c4-04f8-42f9-880c-2248e8d9458e)" alt="Frontend file">
+
 
 <h2>Frontend:</h2>
-<img src="![Screenshot (10)](https://github.com/user-attachments/assets/6057120a-6e58-4ffc-9584-b966faa7e5aa)" alt="Backend file">
+
 
 <h2>Database:</h2>
-<img src="![image](https://github.com/user-attachments/assets/860e90d2-1bac-4378-ac55-f7e9f0c69c68)">
+
 
 <h2>Overview:</h2>
-<img src="![image](https://github.com/user-attachments/assets/07916a23-5667-483d-a566-d119d2b46ef9)">
-<img src="![image](https://github.com/user-attachments/assets/934164c6-5649-4abd-84a1-da4e2cd6cfb5)">
-<img src="![image](https://github.com/user-attachments/assets/d872eac8-90e4-4505-865b-c511b915e14d)">
-<img src="![image](https://github.com/user-attachments/assets/973274a2-c297-4d6c-b16e-823e2c60b19b)">
-<img src="![image](https://github.com/user-attachments/assets/20df76de-9b34-4fda-ae22-7f9c57d8019f)">
-<img src="![image](https://github.com/user-attachments/assets/54a109ef-6d9a-4f7d-97bd-565600f6ec2a)">
-<img src="![image](https://github.com/user-attachments/assets/f2b27fec-e8c2-4de9-9fc1-68f5712fbc61)">
-<img src="![image](https://github.com/user-attachments/assets/95c65576-f00e-4377-8c93-68ee43e432db)">
-<img src="![image](https://github.com/user-attachments/assets/4a3bd4da-bb39-4ba9-a073-d60aad714d29)">
-<img src="![image](https://github.com/user-attachments/assets/a0b482f1-0200-4ee0-b0f4-67bdccce1669)">
+![Screenshot (14)](https://github.com/user-attachments/assets/abcbbb51-55c2-420e-ad39-528863207a54)
+![Screenshot (15)](https://github.com/user-attachments/assets/29c83f18-85ff-48ab-928d-d724d96d9980)
+![Screenshot (16)](https://github.com/user-attachments/assets/7b3850be-67f5-4b22-b434-4f1dbb07097d)
+![Screenshot (17)](https://github.com/user-attachments/assets/5022dfe3-213b-475d-8e36-e41132b2f9b2)
+![Screenshot (18)](https://github.com/user-attachments/assets/43372183-b59a-4ab2-92e1-762986bba0d0)
+![Screenshot (19)](https://github.com/user-attachments/assets/1f0fe067-b725-43d1-9280-e08b8933d397)
+![Screenshot (20)](https://github.com/user-attachments/assets/310c89fc-4b7b-4391-8b4a-61051c414b0d)
+![Screenshot (21)](https://github.com/user-attachments/assets/ec2c09f4-0552-420d-94f5-74b1be776259)
+![Screenshot (22)](https://github.com/user-attachments/assets/41c1ec33-df96-4d9b-a4d2-4e1389dce0f5)
+![Screenshot (23)](https://github.com/user-attachments/assets/618e52fe-42e4-4dc9-8ade-bc32b998816d)
 
 
 <h1>🌟 Acknowledgements</h1>
