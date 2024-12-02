@@ -37,8 +37,8 @@ React Icons: For beautiful icons.
 
 
 <h2>Overview:</h2>
-![Screenshot (14)](https://github.com/user-attachments/assets/abcbbb51-55c2-420e-ad39-528863207a54)
-![Screenshot (15)](https://github.com/user-attachments/assets/29c83f18-85ff-48ab-928d-d724d96d9980)
+<li>![Screenshot (14)](https://github.com/user-attachments/assets/abcbbb51-55c2-420e-ad39-528863207a54)</li>
+<li>![Screenshot (15)](https://github.com/user-attachments/assets/29c83f18-85ff-48ab-928d-d724d96d9980)</li>
 ![Screenshot (16)](https://github.com/user-attachments/assets/7b3850be-67f5-4b22-b434-4f1dbb07097d)
 ![Screenshot (17)](https://github.com/user-attachments/assets/5022dfe3-213b-475d-8e36-e41132b2f9b2)
 ![Screenshot (18)](https://github.com/user-attachments/assets/43372183-b59a-4ab2-92e1-762986bba0d0)
