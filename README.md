@@ -1,16 +1,15 @@
-# Chaitanya
 
 <h1>🍽️ Chaitanya Restaurant - MERN Stack Project </h1>
 "A seamless and modern restaurant management system built using the MERN stack (MongoDB, Express, React, Node.js)."
 
 
 <h1> 🚀 Features </h1>
-Reservation System: Easy online table reservation for customers.
-Responsive Design: Optimized for all devices, including mobile and desktop.
+<li>Reservation System: Easy online table reservation for customers.</li>
+<li>Responsive Design: Optimized for all devices, including mobile and desktop.</li>
 
 <h1>🛠️ Tech Stack</h1>
 <h3>Frontend</h3>
-React.js: For creating a responsive and dynamic user interface.
+React.js: This is used to create a responsive and dynamic user interface.
 CSS: For styling components.
 React Router: For seamless navigation.
 
@@ -19,7 +18,7 @@ Node.js: For building the server.
 Express.js: For handling routes and APIs.
 
 <h3>Database</h3>
-MongoDB: For storing application data like menu items, reservations, and user details.
+MongoDB: This is used to store application data like menu items, reservations, and user details.
 
 <h3>Additional Tools</h3>
 Axios: For API requests.
@@ -28,7 +27,9 @@ JWT: For secure authentication.
 React Icons: For beautiful icons.
 
 <h1>📸 Screenshots</h1>
-![image](https://github.com/user-attachments/assets/065ad8fc-f541-4736-86c6-96bd4d991f0d)
+<img src="![image](https://github.com/user-attachments/assets/065ad8fc-f541-4736-86c6-96bd4d991f0d)" alt="description of the image">
+
+
 ![image](https://github.com/user-attachments/assets/00f88779-ced6-4bbf-b64a-a7c0b94b087e)
 <h2>Backend:</h2>
 ![image](https://github.com/user-attachments/assets/184f3164-bfb7-40bf-bd17-7c960a760c42)
